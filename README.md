@@ -72,6 +72,7 @@ V2.0    With newly added routes
 <img width="1712" height="721" alt="Dev Ss" src="https://github.com/user-attachments/assets/690f5e37-bf0d-4af8-b8a2-3b4a41197262" />
 
 # Merge commits
+<img width="1796" height="777" alt="main ss" src="https://github.com/user-attachments/assets/34956f48-515d-44e0-ae02-9b04348edcc8" />
 
 ---
 
