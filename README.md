@@ -53,6 +53,17 @@ V2.0    With newly added routes
 
 ## Screenshots
 
+# Add User
+<img width="965" height="390" alt="addUser" src="https://github.com/user-attachments/assets/0cdb8b77-25ed-49f7-a0cd-092ab1c644a9" />
+
+# Get User
+<img width="981" height="402" alt="getUserdetails" src="https://github.com/user-attachments/assets/c37eadbe-d2e0-4202-a7a9-6d53be2341ef" />
+
+# Unknown User
+<img width="827" height="312" alt="Unknownuser" src="https://github.com/user-attachments/assets/fa7eefa3-5865-4561-9d2c-e42f0d01d2fb" />
+
+# Delete User
+<img width="952" height="352" alt="deleteUser" src="https://github.com/user-attachments/assets/1fb36c25-0e47-4ea0-b624-77ff8ee3b8aa" />
 
 
 ---
