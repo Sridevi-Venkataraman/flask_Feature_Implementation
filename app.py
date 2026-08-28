@@ -23,6 +23,17 @@ def get_password(username):
     else:
         return jsonify({"error": "Username not found"}), 404
 
+@app.route('/delete', methods=['GET'])
+def delete_user_query():
+    username = request.args.get("username")
+    if not username:
+        return jsonify({"error": "Username required"}), 400
+
+    if username in password_store:
+        del password_store[username]
+        return jsonify({"message": f"User {username} deleted successfully"})
+    else:
+        return jsonify({"error": "Username not found"}), 404
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
