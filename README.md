@@ -1,5 +1,5 @@
 ## Project Title
-PAssword MAnagement with Flask application
+Password Management with Flask application
 
 ---
 
@@ -35,6 +35,9 @@ http://127.0.0.1:5000/add?username=ganesh&password=secret234
 # Returns the stored password for that username, or an appropriate error if the username does not exist 
 http://127.0.0.1:5000/get/username   
 
+# Remove the specified user's record from storage and confirm deletion. If the username does not exist, return an appropriate error message. 
+http://127.0.0.1:5000/delete/<username>
+
 ---
 
 ## GIT Workflow
@@ -65,9 +68,13 @@ V2.0    With newly added routes
 # Delete User
 <img width="952" height="352" alt="deleteUser" src="https://github.com/user-attachments/assets/1fb36c25-0e47-4ea0-b624-77ff8ee3b8aa" />
 
+# Dev commits
+<img width="1712" height="721" alt="Dev Ss" src="https://github.com/user-attachments/assets/690f5e37-bf0d-4af8-b8a2-3b4a41197262" />
+
+# Merge commits
+<img width="1796" height="777" alt="main ss" src="https://github.com/user-attachments/assets/34956f48-515d-44e0-ae02-9b04348edcc8" />
 
 ---
-
 
 
 
